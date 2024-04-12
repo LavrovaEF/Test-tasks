@@ -24,4 +24,4 @@
 
 *pdf2image*
 
-*import easyocr*
+*easyocr*
